@@ -1,4 +1,4 @@
-# 1. git clone https://github.com/cartersmith555686-afk/Usb-Logger/tree/main
+# 1. git clone https://github.com/cartersmith555686-afk/Usb-Logger/
 
 # 2. Install
 bash install_no_root.sh
