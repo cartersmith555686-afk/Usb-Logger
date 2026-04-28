@@ -1,11 +1,13 @@
-# 1. Install
+# 1. git clone https://github.com/cartersmith555686-afk/Usb-Logger/tree/main
+
+# 2. Install
 bash install_no_root.sh
 
-# 2. Connect target via USB-C OTG cable
+# 3. Connect target via USB-C OTG cable
 #    Make sure USB Debugging is ON on the target
 
-# 3. Extract everything
+# 4. Extract everything
 bash extract_no_root.sh
 
-# 4. Analyze results
+# 5. Analyze results
 python3 analyze_no_root.py android_extract_*/
